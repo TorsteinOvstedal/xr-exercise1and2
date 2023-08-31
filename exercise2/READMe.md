@@ -1,6 +1,6 @@
 # Exercise 1
 
-Answere to exercise 2 (2) and (3).
+Answere to exercise 2 (2), (3) and (4).
 
 ## Controls
 - Press **ESC** to quit.
