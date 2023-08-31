@@ -1,4 +1,4 @@
-# Exercise 1
+# Exercise 2
 
 Answere to exercise 2 (2), (3) and (4).
 
